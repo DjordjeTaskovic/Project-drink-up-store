@@ -1,0 +1,20 @@
+email = djordje.mystore@gmail.com
+pass = djordje111
+role = admin
+-------------------------
+email = incorporate-nick@reso.com
+pass = nick5678
+role = user
+--------------
+email = jenniferp@rogers.ca
+pass = jeny5678
+role = user
+----------------------
+email = frank-inco@yahho.com
+pass = frank678
+role = user
+---------------------
+email = rossom-experience@yahoo.com
+pass = ross5678
+role = user
+---------------------
