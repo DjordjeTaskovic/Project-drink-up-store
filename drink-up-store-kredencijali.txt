@@ -1,5 +1,5 @@
 email = djordje.mystore@gmail.com
-pass = djordje111
+pass = dj*******1
 role = admin
 -------------------------
 email = incorporate-nick@reso.com
